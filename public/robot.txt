@@ -1,4 +1,4 @@
-
 User-agent: *
 Allow: /
-Sitemap: [https://telepaste.site/sitemap.xml](https://telepaste.site/sitemap.xml)
+
+Sitemap: https://www.google.com/search?q=https://telepaste.site/sitemap.xml
